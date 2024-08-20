@@ -21,7 +21,7 @@
                 "sha256:b7ea7ee663f3b8514d3224d55c4e8827148277b124ea862a0bbfca1bc899aef5"
             ],
             "index": "pypi",
-            "version": "==1.2"
+            "version": "==1.4.6"
         },
         "atpublic": {
             "hashes": [
@@ -325,7 +325,7 @@
                 "sha256:e6b724ef3d522bbce93bede7af18d1603b57cefcf589337b0f4c5b15ea0a5f29"
             ],
             "index": "pypi",
-            "version": "==2.2.0"
+            "version": "==2.11.2"
         },
         "service-identity": {
             "hashes": [
@@ -340,7 +340,7 @@
                 "sha256:4ce92f1e1f8f01233ee9952c04f6b81d1e02939d6e1b488428154974a4d0783e"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==59.6.0"
+            "version": "==70.0.0"
         },
         "six": {
             "hashes": [
