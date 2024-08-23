@@ -25,6 +25,7 @@
         },
         "atpublic": {
             "hashes": [
+
                 "sha256:3098ee12d0107cc5009d61f4e80e5edcfac4cda2bdaa04644af75827cb121b18",
                 "sha256:37f714748e77b8a7b34d59b7b485fd452a0d5906be52cb1bd28d29a2bd84f295"
             ],
@@ -45,6 +46,14 @@
                 "sha256:e56beb84edad19dcc11d30e8d9b895f75deeb5ef5e96b84a467066b3b84bb04e"
             ],
             "version": "==22.10.0"
+        },
+        "certifi": {
+            "hashes": [
+                "sha256:84c85a9078b11105f04f3036a9482ae10e4621616db313fe045dd24743a0820d",
+                "sha256:fe86415d55e84719d75f8b69414f6438ac3547d2078ab91b67e779ef69378412"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==2022.6.15"
         },
         "cffi": {
             "hashes": [
@@ -156,6 +165,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.2.0"
+        },
+        "filelock": {
+            "hashes": [
+                "sha256:37def7b658813cda163b56fc564cdc75e86d338246458c4c28ae84cabefa2404",
+                "sha256:3a0fd85166ad9dbab54c9aec96737b744106dc5f15c0b09a6744a445299fcf04"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.7.1"
         },
         "hyperlink": {
             "hashes": [
@@ -277,7 +294,6 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==23.0"
-
         },
         "parsel": {
             "hashes": [
@@ -362,12 +378,28 @@
             "markers": "python_version >= '3.5'",
             "version": "==1.6.2"
         },
+        "requests": {
+            "hashes": [
+                "sha256:7c5599b102feddaa661c826c56ab4fee28bfd17f5abca1ebbe3e7f19d7c97983",
+                "sha256:8fefa2a1a1365bf5520aac41836fbee479da67864514bdb821f31ce07ce65349"
+            ],
+            "markers": "python_version >= '3.7' and python_version < '4'",
+            "version": "==2.28.1"
+        },
+        "requests-file": {
+            "hashes": [
+                "sha256:07d74208d3389d01c38ab89ef403af0cfec63957d53a0081d8eca738d0247d8e",
+                "sha256:dfe5dae75c12481f68ba353183c53a65e6044c923e64c24b2209f6c7570ca953"
+            ],
+            "version": "==1.5.1"
+        },
         "scrapy": {
             "hashes": [
-                "sha256:8ce036a113ef9bc575a65b463994244e4298145f70bcdcf40b8847a2f528a1fb",
-                "sha256:e6b724ef3d522bbce93bede7af18d1603b57cefcf589337b0f4c5b15ea0a5f29"
+                "sha256:53528bcaf8c2c77aca359af11f349dec5dad98845a13d4c0bb9abd07f302298d",
+                "sha256:55e21181165f25337105fff1efc8393296375cea7de699a7e703bbd265595f26"
             ],
             "index": "pypi",
+
             "version": "==2.11.2"
         },
         "service-identity": {
@@ -379,7 +411,6 @@
         },
         "setuptools": {
             "hashes": [
-
                 "sha256:16ccf598aab3b506593c17378473978908a2734d7336755a8769b480906bec1c",
                 "sha256:b440ee5f7e607bb8c9de15259dba2583dd41a38879a7abc1d43a71c59524da48"
             ],
@@ -394,6 +425,14 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
+        },
+        "tldextract": {
+            "hashes": [
+                "sha256:35a0260570e214d8d3cfeeb403992fe9e2b686925f63c9b03c5933408ac2aa5a",
+                "sha256:fe15ac3205e5a25b61689369f98cb45c7778a8f2af113d7c11559ece5195f2d6"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.3.1"
         },
         "twisted": {
             "hashes": [
