@@ -25,7 +25,6 @@
         },
         "atpublic": {
             "hashes": [
-
                 "sha256:3098ee12d0107cc5009d61f4e80e5edcfac4cda2bdaa04644af75827cb121b18",
                 "sha256:37f714748e77b8a7b34d59b7b485fd452a0d5906be52cb1bd28d29a2bd84f295"
             ],
@@ -39,6 +38,7 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==22.2.0"
+
         },
         "automat": {
             "hashes": [
@@ -157,6 +157,7 @@
             ],
             "index": "pypi",
             "version": "==39.0.1"
+
         },
         "cssselect": {
             "hashes": [
@@ -363,7 +364,6 @@
         },
         "pyopenssl": {
             "hashes": [
-
                 "sha256:c1cc5f86bcacefc84dada7d31175cae1b1518d5f60d3d0bb595a67822a868a6f",
                 "sha256:df5fc28af899e74e19fccb5510df423581047e10ab6f1f4ba1763ff5fde844c0"
             ],
@@ -439,6 +439,7 @@
                 "sha256:32acbd40a94f5f46e7b42c109bfae2b302250945561783a8b7a059048f2d4d31",
                 "sha256:86c55f712cc5ab6f6d64e02503352464f0400f66d4f079096d744080afcccbd0"
             ],
+          
             "markers": "python_full_version >= '3.7.1'",
             "version": "==22.10.0"
         },
