@@ -38,7 +38,6 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==22.2.0"
-
         },
         "automat": {
             "hashes": [
@@ -54,6 +53,7 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==2022.6.15"
+
         },
         "cffi": {
             "hashes": [
@@ -133,6 +133,7 @@
         },
         "cryptography": {
             "hashes": [
+
                 "sha256:0f8da300b5c8af9f98111ffd512910bc792b4c77392a9523624680f7956a99d4",
                 "sha256:35f7c7d015d474f4011e859e93e789c87d21f6f4880ebdc29896a60403328f1f",
                 "sha256:5aa67414fcdfa22cf052e640cb5ddc461924a045cacf325cd164e65312d99502",
@@ -439,7 +440,6 @@
                 "sha256:32acbd40a94f5f46e7b42c109bfae2b302250945561783a8b7a059048f2d4d31",
                 "sha256:86c55f712cc5ab6f6d64e02503352464f0400f66d4f079096d744080afcccbd0"
             ],
-          
             "markers": "python_full_version >= '3.7.1'",
             "version": "==22.10.0"
         },
